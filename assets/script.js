@@ -83,3 +83,24 @@ window.fbAsyncInit = function () {
   fjs.parentNode.insertBefore(js, fjs);
 })(document, "script", "facebook-jssdk");
 
+
+
+
+const swiper = new Swiper('.swiper', {
+  // Optional parameters
+  // slidesperview: 3,
+  // spaceBetween:30,
+  // slidesPerGroup: 3,
+  loopFillGroupWithBlank: true,
+  
+  loop: true,
+
+  
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+  
+ 
+});
