@@ -2181,10 +2181,10 @@ def update(frame):
         padding-right: 1rem
     }
 }
-.swiper-wrapper {
+/* .swiper-wrapper {
     width: 1344px;
     height: 450px;
-  }
+  } */
  .swiper-button {
     color:#6533ca;
  }
