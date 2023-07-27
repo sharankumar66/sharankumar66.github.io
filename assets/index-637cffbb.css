@@ -1078,7 +1078,7 @@ video {
 }
 
 .px-28 {
-    padding-left: 7rem;
+    padding-left: 2rem;
     padding-right: 7rem
 }
 
@@ -2181,10 +2181,11 @@ def update(frame):
         padding-right: 1rem
     }
 }
-.swiper {
+.swiper-wrapper {
     width: 1344px;
-    height: 400px;
+    height: 450px;
   }
  .swiper-button {
     color:#6533ca;
  }
+ /* 1344; */
