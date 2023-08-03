@@ -1942,7 +1942,7 @@ def update(frame):
     }
 
     .mx-mobile\:text-\[80px\] {
-        font-size: 80px
+        font-size: 40px
     }
 
     .mx-mobile\:font-bold {
@@ -2188,4 +2188,4 @@ def update(frame):
  .swiper-button {
     color:#6533ca;
  }
- /* 1344; */
+ /* 1344;1945 */
