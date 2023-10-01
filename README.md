@@ -1,6 +1,6 @@
 # Terzo.ai
 
-Terzo.ai is a GitHub repository developed by **ALI HAMZA KAMBOH**. It is a project focused on the implementation of a sophisticated artificial intelligence system. The repository houses code, documentation, and other resources related to the Terzo.ai project.
+ It is a project focused on the implementation of a sophisticated artificial intelligence system. The repository houses code, documentation, and other resources related to the Terzo.ai project.
 
 ## Output
 ![Terzo by ahkamboh](https://github.com/ahkamboh/Terzo.ai/assets/123060177/18633d91-84f6-4482-abe4-39e0ea318e23)
