@@ -1,4 +1,4 @@
-# Terzo.ai
+# Digit.gi
 
  It is a project focused on the implementation of a sophisticated artificial intelligence system. The repository houses code, documentation, and other resources related to the Terzo.ai project.
 
